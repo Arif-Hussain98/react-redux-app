@@ -24,6 +24,40 @@
   color: white;
 }
 
+/*  */
+
+ .btn-wrapper button{
+  color: #fff;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: red;
+  border: 0px;
+  box-shadow: #333 0px 1px 5px;
+}
+.img-wrapper img{
+  width: 75px;
+  margin-top: -20px;
+}
+.cart-wrapper{
+  border: 1px solid #ccc;
+  width: 500px;
+  height: 100px;
+  margin-left: 10%;
+}
+.item{
+  float: left;
+  width: 120px;
+  padding: 20px;
+  display: inline-block;
+  height: 70px;
+}
+.add-to-cart img{
+  width: 70px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+/*  */
 .App-link {
   color: #61dafb;
 }
